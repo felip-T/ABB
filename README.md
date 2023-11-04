@@ -1,9 +1,3 @@
-Felipe Gomes Táparo – 119059237
-
-Eric Silva Kraus – 115104789
-
-Luiza Costa Pacheco – 119169147
-
 # Árvore binária de busca
 O código é composto pelos arquivos abb.h, sdb.h e main.cpp. Adicionalmente, um arquivo Makefile com instruções para compilação em linux (GCC) foi implementado. O arquivo pessoas.txt é utilizado para ler dados. O repositório possuí também um arquivo "output.txt", com a saída do programa.
 
