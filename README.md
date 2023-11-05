@@ -114,12 +114,12 @@ Remove elemento pela chave, o elemento só é removido na abb e o índice desse 
 
 Ensina a sdl como obter a chave de um elemento. Necessário para fazer inserções.
 ```cpp
-	void setKey(std::function<key(T &)> f)
+   void setKey(std::function<key(T &)> f)
 ```
 
 - ordenação
 
 Ordena a edl, cria um novo vector ordenado, sem espaços deletados e substituí o vector antigo. Essa função exibe o vector ordenado na tela, para demostração.
 ```cpp
-	void order(){
+   void order(){
 ```
